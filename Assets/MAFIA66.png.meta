@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MAFIA66_0: -3424170625344717581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
