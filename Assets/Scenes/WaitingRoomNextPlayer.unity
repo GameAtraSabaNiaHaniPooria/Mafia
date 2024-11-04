@@ -402,6 +402,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Role: {fileID: 0}
+  displayImage: {fileID: 0}
+  Godfather: {fileID: 0}
+  Mafia: {fileID: 0}
+  Framer: {fileID: 0}
+  Killer: {fileID: 0}
+  Detective: {fileID: 0}
+  Doctor: {fileID: 0}
+  Sniper: {fileID: 0}
+  Mayor: {fileID: 0}
+  Citizen: {fileID: 0}
+  Mason: {fileID: 0}
+  Coroner: {fileID: 0}
 --- !u!1 &291251026
 GameObject:
   m_ObjectHideFlags: 0
@@ -760,8 +772,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 20}
-  m_SizeDelta: {x: 250, y: 250}
+  m_AnchoredPosition: {x: 0, y: 40}
+  m_SizeDelta: {x: 320, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1671404453
 MonoBehaviour:

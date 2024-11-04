@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 60d1fa05babe6d24ca402954215b5ccd
+guid: 860097bf681d40e46a91a4c2abdd939e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2487747043052136630
-    second: MAFIA_0
+      213: 8177965164443599791
+    second: Mayor_new_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MAFIA_0
+      name: Mayor_new_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 345
-        height: 347
+        width: 727
+        height: 1026
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b8a62841c0468220800000000000000
-      internalID: 2487747043052136630
+      spriteID: fa30e240df7fd7170800000000000000
+      internalID: 8177965164443599791
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MAFIA_0: 2487747043052136630
+      Mayor_new_0: 8177965164443599791
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
